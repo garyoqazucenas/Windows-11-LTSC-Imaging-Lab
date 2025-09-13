@@ -25,4 +25,4 @@ Built a custom Windows 11 LTSC golden image in VMware Workstation Pro. Applied b
 See `/screenshots` folder for proof of configuration and capture.
 
 ## Documentation
-- [Group Policy Report (gpresult)](gpresult-report.zip)
+- [Group Policy Report (gpresult)](gpreport.zip)
